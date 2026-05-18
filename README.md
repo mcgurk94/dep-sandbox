@@ -48,7 +48,7 @@ Define and manage multiple particle populations with:
 ## How to Use
 
 This project is hosted on GitHub Pages at: 
-[mcgurk94.github.io/dep_sandbox](https://mcgurk94.github.io/dep_sandbox).
+[mcgurk94.github.io/dep-sandbox](https://mcgurk94.github.io/dep-sandbox).
 
 ### Managing Populations
 1. Navigate to the **Populations** tab
